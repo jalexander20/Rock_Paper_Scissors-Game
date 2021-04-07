@@ -2,4 +2,4 @@
 
 This program allows you to play Rock Paper Scissors with the computer. 
 
-Note: Rock, Paper or Scissors has to be typed the exact way it's type in the program. 
+Note: The prompt used to type rock, paper, or scissors is case-sensitive so the choice has to be typed exactly how it is typed in the directions. 
